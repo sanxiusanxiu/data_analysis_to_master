@@ -10,7 +10,7 @@ pip install scikit-learn -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ##### chapter09 数据统计分析案例
 
-##### c
+##### chapter10
 
 ##### chapter11 网站App平台注册用户分析
 
